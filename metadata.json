@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Particles - Hand Tracked 3D System",
+  "description": "An interactive 3D particle system powered by Three.js and MediaPipe hand tracking. Control cosmic shapes, expansion, and colors using hand gestures, or use Gemini AI to generate custom 'Alchemy' particle configurations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
